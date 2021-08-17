@@ -1,1 +1,2 @@
-# Covid_Invasion
+# Covid Invasion
+Covid Invasion merupakan permainan classic untuk menembah musuh, yang mana pada game ini musuh yang ditampilan merupakan ilustrasi dari virus yang sedang menjadi masalah global pada saat ini. Game  Covid Invasion merupakan gambaran kehidupan saat ini dimana kita sedang berperang dengan pandemi covid berupa virus corona dengan berbagai cara untuk menghilangkan virus yang telah tersebar.
